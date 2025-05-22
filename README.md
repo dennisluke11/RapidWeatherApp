@@ -12,12 +12,18 @@ RapidWeatherApp is a modern Android weather application built with **Jetpack Com
 - 🎨 Dark/light theme toggle support via ViewModel state
 
 ## 🖼 UI Screens
--CurrentWeatherCard
--Displays today's temperature, icon, condition, and city.
--PastWeekWeatherCard
--Shows a scrollable list of average temperatures and conditions for the last 7 days.
--Error / Loading States
--Intuitive UI messaging with retry capability.
+
+- **CurrentWeatherCard**  
+  Displays today's temperature, icon, condition, and city.
+
+- **PastWeekWeatherCard**  
+  Shows a scrollable list of average temperatures and conditions for the last 7 days.
+
+- **Error / Loading States**  
+  Intuitive UI messaging with retry capability.
+
+<img src="https://github.com/user-attachments/assets/1b48a47a-2ae8-489d-a540-2fb0dfd9efec" alt="rapidweatherImage" width="300"/>
+
 
 ## 🚀 Getting Started
 
@@ -40,4 +46,4 @@ Build and install on a device or emulator with location services enabled.
 
 ## 🧩 TODO / Future Improvements
 - 📌 Cache weather data offline
-- 🌈 Improve UI responsiveness on tablets and foldables
+- 🌈 Improve UI responsiveness
